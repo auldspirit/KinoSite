@@ -30,8 +30,8 @@ body {
 
 .header__search {
     padding: 8px;
-    border: 2px solid #1a191f;
-    border-radius: 5px;
+    border: 4px solid #1a191f;
+    border-radius: 10px;
     outline: none;
 }
 
