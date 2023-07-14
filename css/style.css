@@ -80,12 +80,12 @@ body {
 
 .movie__title {
     font-size: 16px;
-    color: white;
+    color: rgb(255, 171, 75);
 }
 
 .movie__category {
-    font-size: 14px;
-    color: goldenrod;
+    font-size: 16px;
+    color: rgb(235, 217, 174);
 }
 
 .movie__average {
@@ -115,4 +115,3 @@ body {
 .movie__average--red {
     border: 1px solid red;
 }
-
